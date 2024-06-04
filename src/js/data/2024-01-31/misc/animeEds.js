@@ -1,461 +1,671 @@
 export const animeEndings = [
   {
-    name: "Ashita no Nadja - \"Que Sera Sera\" by Ami Koshimizu",
-    videoId: "https://ladist1.catbox.video/mwtbtc.webm",
+    name: "Astro Note - Hohoemi no Oto by Ai Furihata",
+    videoId: "https://ladist1.catbox.video/6ih95d.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "ED"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Battle Programmer Shirase1 - \"Pure enough\" by Yuki Matsuura",
-    videoId: "https://ladist1.catbox.video/6pecdy.webm",
+    name: "Bartender Glass of God - Stardust Memory by Takaya Kawasaki",
+    videoId: "https://ladist1.catbox.video/fjf2p0.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "ED"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Battle Programmer Shirase2 - \"suddenly\" by Naomi Amagata",
-    videoId: "https://ladist1.catbox.video/2oz65n.webm",
+    name: "Blue Archive The Animation - Seishun no Archive by Abydos Koutougakkou Taisaku Iinkai",
+    videoId: "https://ladist1.catbox.video/kjp47j.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Chrono Crusade1 - \"Sayonara Solitaire\" by Saeko Chiba",
-    videoId: "https://ladist1.catbox.video/qvk33x.webm",
+    name: "My Hero Academia Season 7 - Ta ga Tame by TK from Ling Tosite Sigure",
+    videoId: "https://ladist1.catbox.video/w6sma0.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "ED"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Chrono Crusade2 - \"Tsubasa wa Pleasure Line\" by Minami Kuribayashi",
-    videoId: "https://ladist1.catbox.video/e2yq15.webm",
+    name: "Oblivion Battery - Lilac by Mrs. GREEN APPLE",
+    videoId: "https://ladist1.catbox.video/rnc77z.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Dear Boys - \"PAMELA\" by MATT LAND",
-    videoId: "https://ladist1.catbox.video/1k7y3v.webm",
+    name: "Date A Live V - Paradoxes by Miyu Tomita",
+    videoId: "https://ladist1.catbox.video/h7n3r6.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "INS"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Di Gi Charat Nyo - Heartbeat by \"Pri\u00e8re\"",
-    videoId: "https://ladist1.catbox.video/8iidj4.webm",
+    name: "The Banished Former Hero Lives as He Pleases - EVOLVE by Shouta Aoi",
+    videoId: "https://ladist1.catbox.video/g0znl5.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "F-Zero Falcon Densetsu - \"Resolution\" by AiM",
-    videoId: "https://ladist1.catbox.video/1t3xmb.webm",
+    name: "Delicious in Dungeon - Unmei by sumika",
+    videoId: "https://ladist1.catbox.video/3he1jg.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "ED"
+        "Opening 2"
       ]
     }
   },
   {
-    name: "Full Metal Panic? Fumoffu1 - \"Kimi ni Fuku Kaze\" by Mikuni Shimokawa",
-    videoId: "https://ladist1.catbox.video/9jbz49.webm",
+    name: "Garouden: The Way of the Lone Wolf - FIGHT & PRIDE by AA=",
+    videoId: "https://ladist1.catbox.video/mq9jhi.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "ED"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Full Metal Panic? Fumoffu2 - \"Sore ga, Ai Deshou\" by Mikuni Shimokawa",
-    videoId: "https://ladist1.catbox.video/jg7mrt.webm",
+    name: "Girls Band Cry - Zattou, Bokura no Machi by TOGENASHI TOGEARI",
+    videoId: "https://ladist1.catbox.video/f27qpp.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Futatsu no Spica - Venus Say by Buzy",
-    videoId: "https://ladist1.catbox.video/uzzy8m.webm",
+    name: "A Condition Called Love - Kimi no Sei by Sexy Zone",
+    videoId: "https://ladist1.catbox.video/wuqj79.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Generation of Chaos III: Toki no Fuuin - \"Wing\" by Sae",
-    videoId: "https://ladist1.catbox.video/pkslic.webm",
+    name: "A Salad Bowl of Eccentrics - Gif ni Ted by WANUKA",
+    videoId: "https://ladist1.catbox.video/hw1l1c.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Hunter x Hunter: Greed Island - \"Pray\" by Wish*",
-    videoId: "https://ladist1.catbox.video/4tg71c.webm",
+    name: "Sound! Euphonium 3 - ReCoda by TRUE",
+    videoId: "https://ladist1.catbox.video/buqafm.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 2"
       ]
     }
   },
   {
-    name: "Ikkitousen1 - \"Drivin' Through The Night\" by move",
-    videoId: "https://nl.catbox.video/qj2rty.webm",
+    name: "Highspeed \u00c9toile - ADRENALIZED by Nana Mizuki",
+    videoId: "https://ladist1.catbox.video/lx2p8j.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Ikkitousen2 - \"Let me be with you\" by Shela",
-    videoId: "https://files.catbox.moe/8olxu8.webm",
+    name: "Himitsu no AiPri - Zenryoku Joshi Kakumei! by P-Maru-sama.",
+    videoId: "https://ladist1.catbox.video/36uumy.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "ED"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Interstella 5555 - \"One More Time\" by Daft Punk",
-    videoId: "https://ladist1.catbox.video/fqqrxk.webm",
+    name: "Grandpa and Grandma Turn Young Again - Kimi ga Ojii-chan Atashi ga Obaa-chan by koresawa",
+    videoId: "https://ladist1.catbox.video/rwzvx0.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "INS"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Kaleido Star1 - \"Tattoo Kiss\" by r.o.r/s",
-    videoId: "https://ladist1.catbox.video/5c4gy1.webm",
+    name: "Mysterious Disappearances - Hazard Symbol by yuyu",
+    videoId: "https://ladist1.catbox.video/prupun.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Kaleido Star2 - \"Yakusoku no Basho e\" by Chihiro Yonekura",
-    videoId: "https://ladist1.catbox.video/7bs7bp.webm",
+    name: "Kaiju No. 8 - Abyss by YUNGBLUD",
+    videoId: "https://ladist1.catbox.video/smv42p.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Kimi ga Nozomu Eien1 - \"Precious Memories\" by Minami Kuribayashi",
-    videoId: "https://ladist1.catbox.video/1cy0w7.webm",
+    name: "Gods' Game We Play - NewGame by AliA",
+    videoId: "https://ladist1.catbox.video/pabmke.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Kimi ga Nozomu Eien2 - \"Hoshizora no Waltz\" by Minami Kuribayashi",
-    videoId: "https://ladist1.catbox.video/quqtfh.webm",
+    name: "Yatagarasu: The Raven Does Not Choose Its Master - poi by Saucy Dog",
+    videoId: "https://ladist1.catbox.video/qydkxj.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "ED"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Kimi ga Nozomu Eien3 - \"Rumbling hearts\" by Minami Kuribayashi",
-    videoId: "https://ladist1.catbox.video/da67ql.webm",
+    name: "Viral Hit - Wild Boy by MA55IVE THE RAMPAGE",
+    videoId: "https://ladist1.catbox.video/allyo5.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "ED"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Kino no Tabi - \"all the way\" by Mikuni Shimokawa",
-    videoId: "https://ladist1.catbox.video/pk83lg.webm",
+    name: "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc - Mugen by MY FIRST STORY\u00d7HYDE",
+    videoId: "https://ladist1.catbox.video/45qqc7.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Kochira Katsushika-ku Kameari Kouenmae Hashutsujo - \"Hai, Irasshai\" by NICEGUY-Jin",
-    videoId: "https://ladist1.catbox.video/l43pz0.webm",
+    name: "KONOSUBA: God's Blessing on This Wonderful World! 3 - Growing Up by Machico",
+    videoId: "https://ladist1.catbox.video/z0yruc.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "ED"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Maburaho - \"Koi no Mahou\" by ICHIKO",
-    videoId: "https://ladist1.catbox.video/nfujkk.webm",
+    name: "Black Butler: Public School Arc - Kyoushinsha no Parade - The Parade of Battlers by otoha",
+    videoId: "https://ladist1.catbox.video/115dbm.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Matantei Loki Ragnarok - \"Believe in Heaven\" by Miki Shinichirou",
-    videoId: "https://ladist1.catbox.video/70zlnb.webm",
+    name: "Chillin' in Another World with Level 2 Super Cheat Powers - Danna-sama to no Love Love Love Song by Rie Kugimiya",
+    videoId: "https://ladist1.catbox.video/sbcm0d.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "ED"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Mazinkaiser: Shitou! Ankoku Daishougun - \"The Gate of the Hell\" by JAM Project featuring Yoshiki Fukuyama",
-    videoId: "https://ladist1.catbox.video/drrl2i.webm",
+    name: "The Irregular at Magic High School Season 3 - Shouted Serenade by LiSA",
+    videoId: "https://ladist1.catbox.video/l9d5ev.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Memories Off 2nd - \"Usual place\" by tiaraway",
-    videoId: "https://ladist1.catbox.video/nyfj3x.webm",
+    name: "The Misfit of Demon King Academy II Part 2 - Maou by BURNOUT SYNDROMES\u00d7Nao Touyama",
+    videoId: "https://ladist1.catbox.video/sz21t7.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "ED"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Mizu-iro1 - \"Sora no Tsuzuki\" by Hiromi Satou",
-    videoId: "https://ladist1.catbox.video/r6s8p3.webm",
+    name: "An Archdemon's Dilemma: How to Love Your Elf Bride - Wakaranai Ai by The Brow Beat",
+    videoId: "https://ladist1.catbox.video/bwmwmc.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Mizu-iro2 - \"Yasashisa no Hajimaru Basho\" by Hiromi Satou",
-    videoId: "https://nl.catbox.video/me36qc.webm",
+    name: "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2 - On the Frontline by hitorie",
+    videoId: "https://ladist1.catbox.video/d2c31m.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "ED"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Mousou Kagaku Series Wandaba Style - \"The IJIN-DEN Tensai no Housoku\" by Mix JUICE",
-    videoId: "https://ladist1.catbox.video/dfhtps.webm",
+    name: "Studio Apartment, Good Lighting, Angel Included - Kimi-iro no Kiseki by Yui Ogura",
+    videoId: "https://ladist1.catbox.video/s5cgtz.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Naruto1 - \"Kanashimi o Yasashisa ni\" by little by little",
-    videoId: "https://ladist1.catbox.video/en8l1p.webm",
+    name: "Tonbo! - Habatake by Sacra e sole",
+    videoId: "https://ladist1.catbox.video/8s8qie.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Naruto2 - \"Haruka Kanata\" by ASIAN KUNG-FU GENERATION",
-    videoId: "https://ladist1.catbox.video/6uutr8.webm",
+    name: "Spice and Wolf: Merchant Meets the Wise Wolf - Tabi no Yukue by Hana Hope",
+    videoId: "https://ladist1.catbox.video/6n6eyt.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Omoikkiri Kagaku Adventure Sou Nanda! - \"Umi to Tsuki no Hikari\" by New man Co.,Ltd.\r\n",
-    videoId: "https://ladist1.catbox.video/a53bez.webm",
+    name: "Pok\u00e9mon Horizons: The Series - Will by IVE",
+    videoId: "https://ladist1.catbox.video/nyom0q.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "ED"
+        "Opening 3"
       ]
     }
   },
   {
-    name: "Onegai Twins1 - \"Second Flight\" by KOTOKO & Hiromi Satou",
-    videoId: "https://nl.catbox.video/ywkgng.webm",
+    name: "Re:Monster - Into the Fire by CHANSUNG(2PM) & AK-69 feat.CHANGMIN(2AM)",
+    videoId: "https://ladist1.catbox.video/gha82x.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Onegai Twins2 - \"Asu e no Namida\" by Mami Kawada",
-    videoId: "https://ladist1.catbox.video/80rmx7.webm",
+    name: "Rinkai! - Windshifter by Rico Sasaki",
+    videoId: "https://ladist1.catbox.video/6dlmyf.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "ED"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Parasite Dolls - \"Get On the Beat\" by Michaelson",
-    videoId: "https://ladist1.catbox.video/itw9me.webm",
+    name: "Dragon Raja -The Blazing Dawn- - IVORY TOWER by Hiroyuki Sawano feat.SennaRin",
+    videoId: "https://files.catbox.moe/dsbdbk.mp4",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Planetes - \"Dive in the Sky\" by Mikio Sakai",
-    videoId: "https://ladist1.catbox.video/u2pt8t.webm",
+    name: "Sand Land: The Series - Water Carrier by Kroi",
+    videoId: "https://ladist1.catbox.video/sc38nf.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Pokemon Movie 06: Nanayo no Negaiboshi Jirachi - \"Chiisaki Mono\" by Asuca Hayashi",
-    videoId: "https://ladist1.catbox.video/irdz2p.webm",
+    name: "Whisper Me a Love Song - Follow your arrows by SSGIRLS",
+    videoId: "https://ladist1.catbox.video/iqfmu4.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "ED"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "R.O.D -THE TV- - \"Moments in the Sun\" by kazami with Home Grown",
-    videoId: "https://ladist1.catbox.video/0rf578.webm",
+    name: "The Many Sides of Voice Actor Radio - Now On Air by Miku Itou",
+    videoId: "https://ladist1.catbox.video/554mzl.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "ED"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "RahXephon: Tagen Hensoukyoku ED - \"tune the rainbow\" by Maaya Sakamoto",
-    videoId: "https://nl.catbox.video/9cskmn.webm",
+    name: "GO! GO! Loser Ranger! - Jikai Yokoku by Tatsuya Kitani",
+    videoId: "https://ladist1.catbox.video/34npyd.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "ED"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Scrapped Princess - \"Little Wing\" by JAM Project featuring Masami Okui",
-    videoId: "https://ladist1.catbox.video/dmpcwz.webm",
+    name: "Shadowverse Flame: Arc-hen - Do or Die by nano",
+    videoId: "https://ladist1.catbox.video/aizzpd.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Texhnolyze - \"GUARDIAN ANGEL(XAVIER'S EDIT)\" by JUNO REACTOR",
-    videoId: "https://ladist1.catbox.video/j2mvov.webm",
+    name: "The Duke of Death and His Maid Season 3 - Cinematic Parade by nasuo\u2606",
+    videoId: "https://ladist1.catbox.video/11bjwm.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Triangle Heart: Sweet Songs Forever - \"Trust You're Truth ~Ashita o Mamoru Yakusoku~\" by KOTOKO",
-    videoId: "https://ladist1.catbox.video/yr6zvr.webm",
+    name: "Shinkansen Henkei Robo Shinkalion: Change the World - Senkou Hayabusa by GRe4N BOYZ",
+    videoId: "https://ladist1.catbox.video/g475z8.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "UFO Princess Walk\u00fcre: Juunigatsu no Yasoukyoku - \"Meguriai\" by Melocure",
-    videoId: "https://ladist1.catbox.video/6u66jp.webm",
+    name: "Train to the End of the World - GA-TAN GO-TON by Rei Nakashima",
+    videoId: "https://ladist1.catbox.video/xwnry4.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Wolf's Rain - \"cloud 9\" by Maaya Sakamoto",
-    videoId: "https://ladist1.catbox.video/id3nhk.webm",
+    name: "T\u30fbP BON - Bon Bon Bon by Ryan Brahms",
+    videoId: "https://ladist1.catbox.video/51u82t.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "INS"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Yami to Boushi to Hon no Tabibito - \"Hitomi no Naka no Meikyuu\" by Aiko Kayo",
-    videoId: "https://ladist1.catbox.video/p1hqz8.webm",
+    name: "Tadaima, Okaeri - Futatsu no Kotoba by MADKID",
+    videoId: "https://ladist1.catbox.video/mwktu1.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
+      ]
+    }
+  },
+  {
+    name: "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World - Blue Days by TRUE",
+    videoId: "https://ladist1.catbox.video/camn3k.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Opening 1"
+      ]
+    }
+  },
+  {
+    name: "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability - Kyunrious by Kaede Higuchi",
+    videoId: "https://ladist1.catbox.video/96p8dx.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Opening 1"
+      ]
+    }
+  },
+  {
+    name: "That Time I Got Reincarnated as a Slime Season 3 - PEACEKEEPER by STEREO DIVE FOUNDATION",
+    videoId: "https://ladist1.catbox.video/xp08gb.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Opening 1"
+      ]
+    }
+  },
+  {
+    name: "The Fable - Professionalism by ALI feat. Hannya",
+    videoId: "https://ladist1.catbox.video/h5uhd1.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Opening 1"
+      ]
+    }
+  },
+  {
+    name: "The iDOLM@STER Shiny Colors - Tsubasa Gravity by Shiny Colors",
+    videoId: "https://ladist1.catbox.video/p0oj3w.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Opening 1"
+      ]
+    }
+  },
+  {
+    name: "The New Gate - Sekai o Inuite by Sou",
+    videoId: "https://ladist1.catbox.video/9yyg2f.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Opening 1"
+      ]
+    }
+  },
+  {
+    name: "Tonari no Yokai-san - Obake Himawari by Pii",
+    videoId: "https://ladist1.catbox.video/jgvyvt.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Opening 1"
+      ]
+    }
+  },
+  {
+    name: "Touken Ranbu Kai: Kyoden Moyuru Honnouji - Whatever Happens by INI",
+    videoId: "https://ladist1.catbox.video/l11ltz.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Opening 1"
+      ]
+    }
+  },
+  {
+    name: "Tsukimichi: Moonlit Fantasy Season 2 - Reversal by syudou",
+    videoId: "https://ladist1.catbox.video/phvvq5.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Opening 2"
+      ]
+    }
+  },
+  {
+    name: "Unnamed Memory - Yobigoe by Tei",
+    videoId: "https://ladist1.catbox.video/3f46g1.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Opening 1"
+      ]
+    }
+  },
+  {
+    name: "Urusei Yatsura (2022) 2nd Season - Bye My Darling by MAISONdes feat. mikimaria, Nito.",
+    videoId: "https://ladist1.catbox.video/2h2znm.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Opening 2"
+      ]
+    }
+  },
+  {
+    name: "Vampire Dormitory - Sugar Blood Kiss by FANTASTICS",
+    videoId: "https://ladist1.catbox.video/6udtpv.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Opening 1"
+      ]
+    }
+  },
+  {
+    name: "Wind Breaker - Zettai Reido by natori",
+    videoId: "https://ladist1.catbox.video/ofdydz.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Opening 1"
+      ]
+    }
+  },
+  {
+    name: "Jellyfish Can't Swim in the Night - Irodori by KanoeRana",
+    videoId: "https://ladist1.catbox.video/2fawos.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Opening 1"
+      ]
+    }
+  },
+  {
+    name: "Mission: Yozakura Family - Unmei-chan by Ikimono-gakari",
+    videoId: "https://ladist1.catbox.video/d7ps0r.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Opening 1"
+      ]
+    }
+  },
+  {
+    name: "Yu-Gi-Oh! Go Rush!! - Duel Shiyou ze! by Masayoshi Ooishi",
+    videoId: "https://ladist1.catbox.video/yj954z.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Opening 3"
+      ]
+    }
+  },
+  {
+    name: "Laid-Back Camp Season 3 - Laid-Back Journey by Kiminone",
+    videoId: "https://ladist1.catbox.video/ukh9eu.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Opening 1"
+      ]
+    }
+  },
+  {
+    name: "Hanma Baki vs. Kengan Ashura - Fly High by Atarashii Gakkou no Leaders",
+    videoId: "JSfuFlhsxZY",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "Opening 1"
+      ]
+    }
+  },
+  {
+    name: "Code Geass: Roz\u00e9 of the Recapture - Running In My Head by MIYAVI",
+    videoId: "https://files.catbox.moe/g5i4kf.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Opening 1"
+      ]
+    }
+  },
+  {
+    name: "Shin Yaranai ka - Wakari Au Tame Yaranai ka by Mirai Kong",
+    videoId: "https://ladist1.catbox.video/txn1hq.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Opening 1"
+      ]
+    }
+  },
+  {
+    name: "Trapezium - Nammo Nai by MAISONdes feat. Hoshimachi Suisei, sakuma.",
+    videoId: "https://files.catbox.moe/alb30p.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "Opening 1"
       ]
     }
   }
