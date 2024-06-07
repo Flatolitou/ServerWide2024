@@ -631,8 +631,8 @@ export const animeEndings = [
   },
   {
     name: "Hanma Baki vs. Kengan Ashura - Fly High by Atarashii Gakkou no Leaders",
-    videoId: "JSfuFlhsxZY",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    videoId: "https://files.catbox.moe/qtnp1m.mp4",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -662,6 +662,16 @@ export const animeEndings = [
   {
     name: "Trapezium - Nammo Nai by MAISONdes feat. Hoshimachi Suisei, sakuma.",
     videoId: "https://files.catbox.moe/alb30p.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Dead Dead Demons Dededede Destruction (ONA) - SHINSEKAI yori by ano × Lilas Ikuta",
+    videoId: "https://files.catbox.moe/xqvcey.mp4",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
