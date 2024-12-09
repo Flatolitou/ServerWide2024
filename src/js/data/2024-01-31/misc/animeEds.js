@@ -1,501 +1,671 @@
 export const animeEndings = [
   {
-    name: "We Without Wings \u2013 Under the Innocent Sky - \"Spread Wings.\" by Aki Misato",
-    videoId: "https://ladist1.catbox.video/d1wnb3.mp3",
+    name: "2.5 Dimensional Seduction - Release Sigh by Kaori Maeda\u30fbAkari Kitou\u30fbSayumi Suzushiro\u30fbSayumi Watabe",
+    videoId: "https://naedist.animemusicquiz.com/k1fxg2.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "The Executioner and Her Way of Life - \"Paper Bouquet\" by Mili",
-    videoId: "https://ladist1.catbox.video/pqnd6x.mp3",
+    name: "Acro Trip - Reversible Baby by KanoeRana",
+    videoId: "https://naedist.animemusicquiz.com/wlro2p.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Anti-Magic Academy: The 35th Test Platoon - \"Embrace Blade\" by Afilia Saga",
-    videoId: "https://ladist1.catbox.video/2merz9.mp3",
+    name: "Tying the Knot With an Amagami Sister - Kimi ni Koi o Musunde by Amagami San Shimai",
+    videoId: "https://naedist.animemusicquiz.com/2hxhnj.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Unlimited Fafnir - \"FLYING FAFNIR\" by TRUSTRICK",
-    videoId: "https://ladist1.catbox.video/7gfxv5.mp3",
+    name: "Blue Exorcist: Beyond the Snow Saga - Tsurara by Yobahi",
+    videoId: "https://naedist.animemusicquiz.com/4gdx3o.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "selector infected WIXOSS - \"killy killy JOKER\" by Kanon Wakeshima",
-    videoId: "https://ladist1.catbox.video/c7ga3l.mp3",
+    name: "Blue Box - Teenage Blue by Eve",
+    videoId: "https://naedist.animemusicquiz.com/cy26gh.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Our Last Crusade or the Rise of a New World - \"Against.\" by Kaori Ishihara",
-    videoId: "https://ladist1.catbox.video/7b3ap0.mp3",
+    name: "Blue Miburo - UNBREAKABLE by THE JET BOY BANGERZ",
+    videoId: "https://naedist.animemusicquiz.com/qsbppr.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Destiny of the Shrine Maiden - \"Re-sublimity\" by KOTOKO",
-    videoId: "https://ladist1.catbox.video/n9dpla.mp3",
+    name: "Arifureta: From Commonplace to World's Strongest Season 3 - The other story by DOBERMAN INFINITY",
+    videoId: "https://naedist.animemusicquiz.com/tecaea.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "YU-NO: A girl who chants love at the bound of this world - \"Kono Yo no Hate de Koi o Utau Shoujo\" by Asaka",
-    videoId: "https://ladist1.catbox.video/iy81bc.mp3",
+    name: "Beastars Final Season - Feel Like This by YU-KA",
+    videoId: "https://naedist.animemusicquiz.com/hqbkr5.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Lost Song - \"Utaeba Soko ni Kimi ga Iru kara\" by Konomi Suzuki",
-    videoId: "https://ladist1.catbox.video/5eomj8.mp3",
+    name: "Beyblade X - Cosmic Treat by Perfume",
+    videoId: "https://naedist.animemusicquiz.com/u1s4ih.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Aikatsu Stars! - \"Start Line!\" by Sena\u30fbRie from AIKATSU\u2606STARS!",
-    videoId: "https://ladist1.catbox.video/7hz0dr.mp3",
+    name: "Bleach: Thousand-Year Blood War - The Conflict - MONOCHROME by suisoh",
+    videoId: "https://naedist.animemusicquiz.com/rd3t7k.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "The Asterisk War - \"Brand-new World\" by Shiena Nishizawa",
-    videoId: "https://ladist1.catbox.video/jquoqc.mp3",
+    name: "Blue Lock 2nd Season - One by Snow Man",
+    videoId: "https://naedist.animemusicquiz.com/hydp8e.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Elemental Gelade - \"Forever...\" by savage genius",
-    videoId: "https://ladist1.catbox.video/2y4fwc.mp3",
+    name: "Orb: On the Movements of the Earth - Aporia by Yorushika",
+    videoId: "https://naedist.animemusicquiz.com/3xj78t.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Air Gear - \"Chain\" by BACK-ON",
-    videoId: "https://ladist1.catbox.video/ayehyz.mp3",
+    name: "Dandadan - TAIDADA by Zutto Mayonaka de Iinoni.",
+    videoId: "https://naedist.animemusicquiz.com/28wg1d.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Kyousougiga - \"Koko\" by Tamurapan",
-    videoId: "https://ladist1.catbox.video/ngy51x.mp3",
+    name: "Dragon Ball Daima - NAKAMA by Zedd, AI",
+    videoId: "https://naedist.animemusicquiz.com/n6hs9m.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Golden Kamuy - \"Reimei\" by Sayuri\u00d7MY FIRST STORY",
-    videoId: "https://ladist1.catbox.video/r74ii3.mp3",
+    name: "Duel Masters LOST: Tsuioku no Suishou - Cantare by Hana Hishikawa",
+    videoId: "https://naedist.animemusicquiz.com/xx6p7q.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Higurashi no Naku Koro ni Kai - \"Naraku no Hana\" by Eiko Shimamiya",
-    videoId: "https://ladist1.catbox.video/81991h.mp3",
+    name: "Is It Wrong to Try to Pick Up Girls in a Dungeon? V - Hydrate by sajou no hana",
+    videoId: "https://naedist.animemusicquiz.com/d5mxoq.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Yurikuma Arashi - \"Ano Mori de Matteru\" by Bonjour Suzuki",
-    videoId: "https://ladist1.catbox.video/hewjbo.mp3",
+    name: "Fairy Tail: 100 Years Quest - ties by Emi Noda",
+    videoId: "https://naedist.animemusicquiz.com/d893tm.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Phantom: Requiem for the Phantom - \"KARMA\" by KOKIA",
-    videoId: "https://ladist1.catbox.video/huqtw1.mp3",
+    name: "How I Attended an All-Guy's Mixer - Ou-sama Daare da by ASOBI Doumei",
+    videoId: "https://naedist.animemusicquiz.com/az9nxd.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Magical Girl Lyrical Nanoha A's - \"ETERNAL BLAZE\" by Nana Mizuki",
-    videoId: "https://ladist1.catbox.video/a0tl4q.mp3",
+    name: "Haigakura - Phoenix by Hikaru Makishima",
+    videoId: "https://naedist.animemusicquiz.com/n0wyav.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Birdy the Mighty Decode:02 - \"kiseki\" by NIRGILIS",
-    videoId: "https://ladist1.catbox.video/opolmf.mp3",
+    name: "Himitsu no AiPri - AiPriverse In! by Minori Fujidera\u30fbSae Hiratsuka",
+    videoId: "https://naedist.animemusicquiz.com/nkeqrl.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Fairy Tail - \"Towa No Kizuna\" by Daisy\u00d7Daisy feat. Another Infinity",
-    videoId: "https://ladist1.catbox.video/opezwg.mp3",
+    name: "Loner Life in Another World - Hello to Goodbye by KUJIRAGI",
+    videoId: "https://naedist.animemusicquiz.com/46afjp.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Senki Zesshou Symphogear AXZ - \"TESTAMENT\" by Nana Mizuki",
-    videoId: "https://ladist1.catbox.video/txa4ww.mp3",
+    name: "Nina the Starry Bride - Hoshi no Dengon by Nao Touyama",
+    videoId: "https://naedist.animemusicquiz.com/2ut1bt.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Hunter x Hunter - \"departure!\" by Masatoshi Ono",
-    videoId: "https://ladist1.catbox.video/2nno6y.mp3",
+    name: "Magilumiere Magical Girls Inc. - Workout by syudou",
+    videoId: "https://naedist.animemusicquiz.com/asowzf.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Air   - \"Tori no Uta\" by Lia",
-    videoId: "https://ladist1.catbox.video/pg71sc.mp3",
+    name: "Kagaku\u00d7Bouken Survival! - survival dAnce by Satsumi Matsuda \u00d7 Mikako Komatsu",
+    videoId: "https://naedist.animemusicquiz.com/4suhbu.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "A Certain Scientific Railgun S - \"sister's noise\" by fripside",
-    videoId: "https://ladist1.catbox.video/qhpece.mp3",
+    name: "Tower of God Season 2: Workshop Battle - Falling Up by Stray Kids",
+    videoId: "https://naedist.animemusicquiz.com/1m10my.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "The Demon Girl Next Door - \"Machikado Tangent\" by shami momo",
-    videoId: "https://ladist1.catbox.video/5kxs3p.mp3",
+    name: "KamiErabi 2nd Season - Koufuku no Susume by LEEVELLES",
+    videoId: "https://naedist.animemusicquiz.com/h9xfcz.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Bloom Into You - \"Kimi ni Furete\" by Riko Azuna",
-    videoId: "https://ladist1.catbox.video/59fvwo.mp3",
+    name: "Kamonohashi Ron no Kindan Suiri 2nd Season - Labyrinth by hockrockb",
+    videoId: "https://naedist.animemusicquiz.com/xwk98x.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "TONIKAWA: Over The Moon For You - \"Setsuna no Chikai (feat. Tsukasa Yuzaki)\" by Neko Hacker feat. Akari Kitou",
-    videoId: "https://ladist1.catbox.video/175ys6.mp3",
+    name: "Lockdown Zone: Level X - I to U by Takuya Sugimoto",
+    videoId: "https://naedist.animemusicquiz.com/678k01.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Aikatsu stars! - \"MUSIC of DREAM!!!\" by Sena\u30fbRie\u30fbMiki\u30fbKana from AIKATSU\u2606STARS!",
-    videoId: "https://ladist1.catbox.video/moix30.mp3",
+    name: "365 Days to the Wedding - Tsumari wa by GOHOBI",
+    videoId: "https://naedist.animemusicquiz.com/qtv8cd.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Senki Zesshou Symphogear - \"Synchrogazer\" by Nana Mizuki",
-    videoId: "https://ladist1.catbox.video/x1w54c.mp3",
+    name: "You are Ms. Servant - Hyoujou Sabun by DUSTCELL",
+    videoId: "https://naedist.animemusicquiz.com/b6d1az.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Cross Ange: Rondo of Angel and Dragon - \"Shinjitsu no Mokushiroku\" by Yoko Takahashi",
-    videoId: "https://ladist1.catbox.video/v2b3ko.mp3",
+    name: "Kinokoinu Mushroom Pup - Heart b-b-beat!! by IBERIs&",
+    videoId: "https://naedist.animemusicquiz.com/q9vo5k.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "World Trigger - \"Ashita no Hikari\" by AAA",
-    videoId: "https://ladist1.catbox.video/w8r3tw.mp3",
+    name: "Love Live! Superstar!! 3rd Season - DAISUKI FULL POWER by Liella!",
+    videoId: "https://naedist.animemusicquiz.com/nn7jzo.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Nyaruko: Crawling with Love! W - \"Koi wa Chaos no Shimobe Nari\" by Ushiro kara Haiyori-tai G",
-    videoId: "https://ladist1.catbox.video/jwwrba.mp3",
+    name: "The Stories of Girls Who Couldn't Be Magicians - Shunkan Saidai Fuusoku by halca",
+    videoId: "https://naedist.animemusicquiz.com/au4rb8.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Police in a Pod - \"Shiranakya\" by Riko Azuna",
-    videoId: "https://ladist1.catbox.video/2ato8o.mp3",
+    name: "Demon Lord 2099 - Spira by sekai",
+    videoId: "https://naedist.animemusicquiz.com/hv07go.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Vlad Love - \"Where you are\" by BlooDye feat. LITTLE (KICK THE CAN CREW)",
-    videoId: "https://ladist1.catbox.video/levq95.mp3",
+    name: "Demon Lord, Retry! R - Clansick by MIMiNARI feat. Yuuho Kitazawa",
+    videoId: "https://naedist.animemusicquiz.com/tl90bi.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Summer Time Rendering - \"Natsuyume Noisy\" by Asaka",
-    videoId: "https://ladist1.catbox.video/tmz49f.mp3",
+    name: "Mecha-Ude: Mechanical Arms - karma by Setsuko (Kuhaku Gokko)",
+    videoId: "https://naedist.animemusicquiz.com/l6is88.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Fate/kaleid liner Prisma\u2606Illya - \"starlog\" by ChouCho",
-    videoId: "https://ladist1.catbox.video/khidi5.mp3",
+    name: "MF Ghost 2nd Season - Side U (Prod. AmPm) by Himika Akaneya",
+    videoId: "https://naedist.animemusicquiz.com/foinxn.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Hanayamata - \"Hana wa Odore ya Irohaniho\" by Team \"Hanayamata\"",
-    videoId: "https://ladist1.catbox.video/dd7acs.mp3",
+    name: "Murai in Love - Suko. by Yabai T-Shirts Yasan",
+    videoId: "https://naedist.animemusicquiz.com/ucelss.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "The Strongest Sage With the Weakest Crest - \"Leap of faith\" by fripSide",
-    videoId: "https://ladist1.catbox.video/yahbf6.mp3",
+    name: "Murder Mystery of the Dead - MAKE YOU CHANCE by VAG -Virtual Athlete Gaming-",
+    videoId: "https://naedist.animemusicquiz.com/35vsdi.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Bleach - \"HARUKAZE\" by SCANDAL",
-    videoId: "https://ladist1.catbox.video/4q5hxf.mp3",
+    name: "Let This Grieving Soul Retire - Scream! by P-Maru-sama.",
+    videoId: "https://naedist.animemusicquiz.com/wjw0gh.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Yozakura Quartet - \"JUST TUNE\" by savage genius",
-    videoId: "https://ladist1.catbox.video/gf02qz.mp3",
+    name: "The Seven Deadly Sins: Four Knights of the Apocalypse 2nd Season - Akairo by Hana Hope",
+    videoId: "https://naedist.animemusicquiz.com/sr0ga4.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "The Fruit of Grisaia - \"Rakuen no Tsubasa\" by Maon Kurosaki",
-    videoId: "https://ladist1.catbox.video/nyxufc.mp3",
+    name: "Natsume's Book of Friends Season 7 - Komari Warai by Toshiki Kondo",
+    videoId: "https://naedist.animemusicquiz.com/mv4eou.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Big Order - \"DISORDER\" by Yousei Teikoku",
-    videoId: "https://ladist1.catbox.video/r7eyze.mp3",
+    name: "Negative Positive Angler - Shounin Yokkyuu by 96neko",
+    videoId: "https://naedist.animemusicquiz.com/qtbmzl.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Alderamin on the Sky - \"Tenkyou no Alderamin\" by Kishida Kyoudan &THE Akeboshi Rockets",
-    videoId: "https://ladist1.catbox.video/2ya70j.mp3",
+    name: "Tonbo! Season 2 - Kachitaku Nacchatta ne by TOKYO GROOVE JYOSHI",
+    videoId: "https://naedist.animemusicquiz.com/eoef05.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Blast of Tempest - \"Daisuki nano ni\" by Kylee",
-    videoId: "https://ladist1.catbox.video/etv7rt.mp3",
+    name: "The Healer Who Was Banished From His Party, Is, in Fact, the Strongest - Only by Sizuk feat. Kotoha",
+    videoId: "https://naedist.animemusicquiz.com/nfbzcs.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Strawberry Panic - \"Kuchibiru Daydream\" by Aki Misato",
-    videoId: "https://ladist1.catbox.video/9f0leq.mp3",
+    name: "Pok\u00e9mon Horizons: The Series - Pikkaan! by Giga & TeddyLoid meets Rina Matsuda & Hikaru Morita (Sakurazaka46)",
+    videoId: "https://naedist.animemusicquiz.com/4ogqv6.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Build-Divide: #FFFFFF (Code White) - \"Gold\" by EGOIST",
-    videoId: "https://ladist1.catbox.video/lah3jv.mp3",
+    name: "Puniru is a Kawaii Slime - Show by Yuu Sasahara",
+    videoId: "https://naedist.animemusicquiz.com/dsae2z.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Samurai Champloo - \"battlecry\" by Nujabes feat.Shing02",
-    videoId: "https://ladist1.catbox.video/mr2jw1.mp3",
+    name: "Yakuza Fianc\u00e9: Raise wa Tanin ga Ii - Nani Warotonnen by Yoshino",
+    videoId: "https://naedist.animemusicquiz.com/vvhqzp.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Aikatsu! - \"SHINING LINE*\" by Waka\u30fbFuuri\u30fbYuna from STAR\u2606ANIS",
-    videoId: "https://ladist1.catbox.video/17onnu.mp3",
+    name: "Ranma 1/2 (2024) - Anta Nante. by Riria.",
+    videoId: "https://naedist.animemusicquiz.com/zo6yir.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
       ]
     }
   },
   {
-    name: "Land of the Lustrous - \"Kyoumen no Nami\" by YURiKA",
-    videoId: "https://ladist1.catbox.video/jh7et0.mp3",
+    name: "Re:Zero: Starting Life in Another World 3rd Season - NOX LUX by MYTH & ROID",
+    videoId: "https://naedist.animemusicquiz.com/03x9hk.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "I'll Become a Villainess Who Goes Down in History - What's Your Name? by Rin Kurusu",
+    videoId: "https://naedist.animemusicquiz.com/k6qvck.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Rurouni Kenshin: Kyoto Disturbance - Suikou Setten by NOMELON NOLEMON",
+    videoId: "https://naedist.animemusicquiz.com/wr7i50.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "The Most Notorious \"Talker\" Runs the World's Greatest Clan - Liberation by KOHTA YAMAMOTO feat. AAAMYYY",
+    videoId: "https://naedist.animemusicquiz.com/gb4zu5.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Sayounara Ryuusei, Konnichiwa Jinsei - Kimi to Mita Keshiki by EverdreaM",
+    videoId: "https://naedist.animemusicquiz.com/lourj9.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Seirei Gensouki: Spirit Chronicles Season 2 - Harumachi Uta by Nanaka Suwa",
+    videoId: "https://naedist.animemusicquiz.com/np69a2.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Shangri-La Frontier Season 2 - Yamiyo no Dancer -Dancer in the Dark Night by otoha",
+    videoId: "https://naedist.animemusicquiz.com/kqkocu.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "The Prince of Tennis II U-17 World Cup Semifinal - GLANZ by emBLEm=ADLER",
+    videoId: "https://naedist.animemusicquiz.com/9cxdd1.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "One Piece Log: Fish-Man Island Saga - Sailing by BE:FIRST",
+    videoId: "https://naedist.animemusicquiz.com/w6p3il.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Sword Art Online Alternative: Gun Gale Online II - Little Dancer by Tomori Kusunoki",
+    videoId: "https://naedist.animemusicquiz.com/fjuu5e.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "TASUKETSU: Fate of the Majority - REASONS by Aina Aiba",
+    videoId: "https://naedist.animemusicquiz.com/gt4ggt.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2 - Familiar by Yuki Tanaka",
+    videoId: "https://naedist.animemusicquiz.com/cfj1e0.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Touhai: Ura Rate Mahjong Touhai Roku - Plastic Showcase by Taiyou to Odore Tsukiyo ni Utae",
+    videoId: "https://naedist.animemusicquiz.com/7cac0w.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Trillion Game - Unbelievable by Klang Ruler",
+    videoId: "https://naedist.animemusicquiz.com/t9y6so.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "TsumaSho - Hidamari by Ms.OOJA",
+    videoId: "https://naedist.animemusicquiz.com/uh6tdc.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "The Do-Over Damsel Conquers the Dragon Emperor - gradation by HaNaTan",
+    videoId: "https://naedist.animemusicquiz.com/6l3tmi.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Youkai Gakkou no Sensei Hajimemashita! - Bokurashisa by 'Yuika'",
+    videoId: "https://naedist.animemusicquiz.com/fskhk0.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized 2nd Season - Ame-iro Suisai by MiMi",
+    videoId: "https://files.catbox.moe/9vgt2k.mp4",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
       ]
     }
   }
